@@ -1,0 +1,4 @@
+mytb-data/*
+mytb-logs/*
+kafka-data/*
+backup.zip
